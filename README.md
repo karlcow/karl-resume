@@ -5,4 +5,6 @@ This is an experiment at a personal Resume on github with contributions open to 
 
 The reasoning started with how difficult and misleading it can be sometimes to describe yourself. So I thought about giving only plain facts about my history and let other people contribute on who I was. It means also that this experiment might fail completely. Without trying, we will never know, so let's see where this goes.
 
+I will probably need to create a Makefile, and a template for people who want to contribute to it.
+
 You are welcome to make pull requests on this directory.
