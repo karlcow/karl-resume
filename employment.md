@@ -10,6 +10,7 @@
 * 2009-01 to 2010-09 Technical Director, [Pheromone](http://lab.pheromone.ca/) Web Agency, Montreal, Canada
   * Managing a Team of 20 Web and QA developers(including recruitment)
   * Leading the efforts for performance optimizations on some high trafic Web sites
+  * Developed data visualizations for studying user interactions and chronical crashes on a [social network Web site](http://legrandclub.rds.ca/).
   * Interactions with clients for explaining the technical implications
   * Brainstorming on Lab projects
   * Shaping internal work interactions and the Web agency workflow
