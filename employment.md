@@ -7,6 +7,11 @@
   * Contacting Web sites for interoperability bugs with Opera browsers
   * Creating patches in [browserJS](http://www.opera.com/docs/browserjs/) to fix issues with Web sites.
 * 2009-01 to 2010-09 Technical Director, [Pheromone](http://lab.pheromone.ca/) Web Agency, Montreal, Canada
+  * Managing a Team of 20 Web and QA developers(including recruitment)
+  * Leading the efforts for performance optimizations on some high trafic Web sites
+  * Interactions with clients for explaining the technical implications
+  * Brainstorming on Lab projects
+  * Shaping internal work interactions and the Web agency workflow
 * 2000-06 to 2008-11 [Conformance Manager](http://www.w3.org/People/karl/), [W3C](http://www.w3.org/) (World Wide Web Consortium). Worked (remotely/office) from Sophia-Antipolis (France), Fujisawa (Japan) and Montreal (Canada)
 * 1999-12 to 2000-05 Technical Director, [Angie Interactive](http://www.angie.fr/) Web Agency, Paris, France
 * 1997-02 to 1999-11 Internet Landlord, [IUFM de Paris](http://www.paris.iufm.fr/) (University), Paris, France
