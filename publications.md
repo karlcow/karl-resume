@@ -4,7 +4,7 @@ I have published articles at different places in addition to contributions to pr
 
 ## Weekly ##
 
-* A semi-(ir)regular '''review of the Open Web platform''' on [http://www.w3.org/QA/ W3C Web site].
+* A semi-(ir)regular '''review of the Open Web platform''' on [W3C Web site](http://www.w3.org/QA/).
 
 ## Articles, Tutorials, etc. ##
 
