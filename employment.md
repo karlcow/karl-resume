@@ -5,6 +5,7 @@
   * Giving Talks at conferences about Open Web technologies (not only about Opera) and collecting Web developers feedback.
   * Participating to W3C Working Group Activities: Do Not Track WG, HTML WG, Web apps WG, etc.
   * Contacting Web sites for interoperability bugs with Opera browsers
+  * Created a [survey for some CSS properties](https://github.com/karlcow/websurvey) usage among Top Alexa Web sites. (python)
   * Creating patches in [browserJS](http://www.opera.com/docs/browserjs/) to fix issues with Web sites.
 * 2009-01 to 2010-09 Technical Director, [Pheromone](http://lab.pheromone.ca/) Web Agency, Montreal, Canada
   * Managing a Team of 20 Web and QA developers(including recruitment)
