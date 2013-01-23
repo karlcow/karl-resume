@@ -7,7 +7,7 @@ This is an experiment at a personal Resume on github with contributions open to 
 
 * [Employment History](https://github.com/karlcow/karl-resume/blob/master/employment.md)
 * [Talks and Conferences](https://github.com/karlcow/karl-resume/blob/master/conferences.md)
-* Articles
+* [Articles](https://github.com/karlcow/karl-resume/blob/master/publications.md)
 * Education (not sure it is relevant)
 * [References and Testimonials](https://github.com/karlcow/karl-resume/blob/master/references.md)
 
