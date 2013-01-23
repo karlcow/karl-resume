@@ -41,3 +41,11 @@ I have published articles at different places in addition to contributions to pr
 * Dec 14, 2011: dev.opera. "[Better error handling with window.onerror](http://dev.opera.com/articles/view/better-error-handling-with-window-onerror)"
 * Dec 15, 2010: dev.opera. "[Opera extensions prototypes for modifying CSS](http://dev.opera.com/articles/view/opera-extensions-prototypes-modifying-css)"
 * Nov 25, 2012: dev.opera. "[The ins and outs of config.xml](http://dev.opera.com/articles/view/config-xml-howto)"
+
+## Specifications ##
+
+* W3C Recommendation 17 August 2005 - [QA Framework - Specification Guidelines](http://www.w3.org/TR/qaframe-spec/)
+* W3C Note 28 January 2003 - [Common User Agent Problems](http://www.w3.org/TR/cuap)
+* W3C Working Group Note 14 September 2005 - [Test Metadata](http://www.w3.org/TR/test-metadata/)
+
+Contributed to a few others such as [HTTPbis](http://tools.ietf.org/html/draft-ietf-httpbis-p1-messaging#section-9), [W3C Web Architecture](http://www.w3.org/TR/webarch/#acks), [CHIPs](http://www.w3.org/TR/chips/#acknowledgments), [Selectors API](http://www.w3.org/TR/selectors-api/#acknowledgements), [Evaluation and Report Language (EARL) 1.0 Schema](http://www.w3.org/TR/EARL10-Schema/#contributors), [CSS Namespaces Module](http://www.w3.org/TR/css3-namespace/#acknowledgments), [XMLHttpRequest Level 2](http://www.w3.org/TR/XMLHttpRequest2/#acknowledgments), [The QA Handbook](http://www.w3.org/TR/qa-handbook/#acknowledgments), [Variability in Specifications](http://www.w3.org/TR/spec-variability/#acknowledgments), [RDF Calendar](http://www.w3.org/TR/rdfcal/#Acknowledg), [Remote Events for XML](http://www.w3.org/TR/rex/#acknow), etc.
