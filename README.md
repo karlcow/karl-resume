@@ -9,7 +9,7 @@ This is an experiment at a personal Resume on github with contributions open to 
 * [Talks and Conferences](https://github.com/karlcow/karl-resume/blob/master/conferences.md)
 * Articles
 * Education (not sure it is relevant)
-* [References and Testimonials](https://github.com/karlcow/karl-resume/blob/master/conferences.md)
+* [References and Testimonials](https://github.com/karlcow/karl-resume/blob/master/references.md)
 
 The reasoning started with how difficult and misleading it can be sometimes to describe yourself. So I thought about giving only plain facts about my history and let other people contribute on who I was. It means also that this experiment might fail completely. Without trying, we will never know, so let's see where this goes.
 
