@@ -16,3 +16,17 @@ and contributed to messaging, design, and improving user experiences
 with our Web site. To this day, I consult with Karl on topics of
 developer relations and getting an insider view of what's happening
 on the Web.
+
+===============
+Rudy Rigot - Managing Director of the start-up Steerious,
+founding member of the Sud Web conferences
+
+Although i've never worked directly with Karl, we've been on common conference
+projects multiple times, and i've been lucky enough to witness and enjoy his
+aura and natural intellectual authority on the French-speaking web-makers'
+community. People who naturally express a superior understanding of the web
+and whom, at the same time, are able to spread it in a highly understandable
+fashion are pretty rare, and there is no question that Karl is one of them. His
+ability to have earned the highest respect of such a large community is proof
+of his abilities with web science as well as with people, and there is no doubt
+it is a honor he deserves entirely.
