@@ -29,4 +29,4 @@ and whom, at the same time, are able to spread it in a highly understandable
 fashion are pretty rare, and there is no question that Karl is one of them. His
 ability to have earned the highest respect of such a large community is proof
 of his abilities with web science as well as with people, and there is no doubt
-it is a honor he deserves entirely.
+it is an honor he deserves entirely.
