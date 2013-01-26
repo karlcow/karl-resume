@@ -35,3 +35,11 @@ These last few years, I have been giving talks and workshops here and there at d
 * May 06-07, 2011: [Make Web Not War](http://www.webnotwar.ca/lookin-back/ftw/) in Vancouver, Canada. "[Keynote: The Web is the Massage (HTTP for Poets)](http://fr.slideshare.net/karlcow/the-web-is-the-massage-http-for-poets)"
 * Apr 28-29, 2011. W3C Workshop on Web Tracking and User Privacy in Princeton, USA. "[Web Tracking and User Privacy in the Age of Ads Business Models](http://www.w3.org/2011/track-privacy/papers/Opera.html)"
 * Mar 11, 2011. [ConFoo 2011](http://confoo.ca/en/2011/) in Montréal, Canada. "[Designing for Mobile First](http://fr.slideshare.net/karlcow/think-mobile-first-then-enhance)"
+
+
+## Lectures  ##
+
+I have occasionnally given some lectures about the Web.
+
+* October 2009: Web Architecture, [École de Technologie Supérieure](http://en.etsmtl.ca/), Canada
+* April 2007: [Web Architecture, Keio University](http://www.w3.org/2007/04/web-arch-keio/), Japan
