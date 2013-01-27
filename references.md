@@ -37,6 +37,6 @@ it is an honor he deserves entirely.
 
 ## David Larlet - Web Architect - scopyleft
 
-I first met Karl about a decade ago (sigh) on IRC in the `#openweb` room, he was already helping young web developers to understand and embrace the Web, one link at a time. He was — and still is! — one of the most valuable people of the room to learn new things and be inspired. A couple of years later, digging into the Semantic Web, I (re)discovered his blog as a major resource for the French community and starts to met the hedonist guy behind the URI. I finally met Karl in person a few times around the globe these last years (Paris, Montréal, Tokyo) and it was always a real pleasure to chat with, both about technology and life.
+I first met Karl about a decade ago (sigh) on IRC in the `#openweb` room, he was already helping young web developers to understand and embrace the Web, one link at a time. He was — and still is! — one of the most valuable people of the room to learn new things and be inspired. A couple of years later, digging into the Semantic Web, I (re)discovered his blog as a major resource for the French community and started to find out the hedonist guy behind the URI. I finally met Karl in person a few times around the globe these last years (Paris, Montréal, Tokyo) and it was always a real pleasure to chat with, both about technology and life.
 
-By hiring Karl, not only you'll inherit from his experience and skills but the most valuable part of his work for your company will be invisible, hardly quantifiable: his curiosity and humanity.
+By hiring Karl, not only you'll benefit from his experience and skills but the most valuable part of his work for your company will be invisible, hardly quantifiable: his curiosity and humanity.
