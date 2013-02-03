@@ -43,3 +43,4 @@ I have occasionnally given some lectures about the Web.
 
 * October 2009: Web Architecture, [École de Technologie Supérieure](http://en.etsmtl.ca/), Canada
 * April 2007: [Web Architecture, Keio University](http://www.w3.org/2007/04/web-arch-keio/), Japan
+* September 2006: [Enrichissons nos relations](http://www.paris-web.fr/2006/planning.html#karld), France
