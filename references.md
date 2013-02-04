@@ -40,3 +40,18 @@ it is an honor he deserves entirely.
 I first met Karl about a decade ago (sigh) on IRC in the `#openweb` room, he was already helping young web developers to understand and embrace the Web, one link at a time. He was — and still is! — one of the most valuable people of the room to learn new things and be inspired. A couple of years later, digging into the Semantic Web, I (re)discovered his blog as a major resource for the French community and started to find out the hedonist guy behind the URI. I finally met Karl in person a few times around the globe these last years (Paris, Montréal, Tokyo) and it was always a real pleasure to chat with, both about technology and life.
 
 By hiring Karl, not only you'll benefit from his experience and skills but the most valuable part of his work for your company will be invisible, hardly quantifiable: his curiosity and humanity.
+
+===============
+
+## Stephane Deschamps - Web accessibility and front-end expert
+
+I met Karl in 2006 when we founded the Paris Web conference and was
+struck both by the amount of knowledge he has and by how easy
+he makes it sound when he explains complicated concepts to the layman.
+From then on, I've seen how generous and open to people he is.
+
+He can take criticism and is always available to suggest solutions.
+Great team player and has an interesting, holistic outlook on things.
+
+One does not usually say that in a recommendation but we're lucky, the few of us who met him.
+
