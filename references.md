@@ -49,7 +49,9 @@ I met Karl in 2006 when we founded the Paris Web conference and was
 struck both by the amount of knowledge he has and by how easy
 he makes it sound when he explains complicated concepts to the layman.
 From then on, I've seen how generous and open to people he is.
-He always tries to find out a way to relieve tensions and to help find solutions.
+
+He can take criticism and is always available to suggest solutions.
+Great team player and has an interesting, holistic outlook on things.
 
 One does not usually say that in a recommendation but we're lucky, the few of us who met him.
 
