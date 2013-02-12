@@ -36,10 +36,13 @@ These last few years, I have been giving talks and workshops here and there at d
 * Apr 28-29, 2011. W3C Workshop on Web Tracking and User Privacy in Princeton, USA. "[Web Tracking and User Privacy in the Age of Ads Business Models](http://www.w3.org/2011/track-privacy/papers/Opera.html)"
 * Mar 11, 2011. [ConFoo 2011](http://confoo.ca/en/2011/) in Montréal, Canada. "[Designing for Mobile First](http://fr.slideshare.net/karlcow/think-mobile-first-then-enhance)"
 
-## Done in 2006
+## Done in 2006 ##
 
 * Sep 21-22, 2006. [ParisWeb 2006](http://www.paris-web.fr/2006/) in Paris, France. "[Enrichissons nos relations](http://www.paris-web.fr/2006/planning.html#karld)"
 
+## Done in 2004 ##
+
+* Jan, 2004: Rencontres d'Autrans, France. Introduction au web sémantique.
 
 
 ## Lectures  ##
