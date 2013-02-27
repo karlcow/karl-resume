@@ -10,6 +10,8 @@ This is an experiment at a personal Resume on github with contributions open to 
 * [Articles](https://github.com/karlcow/karl-resume/blob/master/publications.md)
 * Education (not sure it is relevant)
 * [References and Testimonials](https://github.com/karlcow/karl-resume/blob/master/references.md)
+* [Motivation letter](https://github.com/karlcow/karl-resume/blob/master/motivation-letter.md)
+
 
 ## Why? ##
 
