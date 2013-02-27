@@ -6,3 +6,10 @@ The motivation letter is a strange and often futile exercise. I would not apply 
 
 I'm not. You will not find me in celebrity contests. It's not a very interesting place. I'm a learner first. Then I love to communicate, translate what I have learned to others. I love to participate and share. If someone thinks that there is such a place as the ultimate expert in one domain then I don't want to be there, it is a very lonely place.
 
+## Remote Working
+
+TODO
+
+## Errors, Mistakes, …
+
+TODO
