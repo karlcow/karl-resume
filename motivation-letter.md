@@ -10,6 +10,15 @@ I'm not. You will not find me in celebrity contests. It's not a very interesting
 
 Often when discussing about remote working, people are focussing on the wrong side of it: employees. I have been working remotely from 2001 to 2005 ([W3C](http://www.w3.org/)) and from 2010 to 2013 ([Opera Software](http://www.opera.com/)). In my experience, the remote working option is really successful when **everyone in the company is working like if they were remote**, even if coming every day into the office. It has very strong dependencies on internal information architecture and workflow management. It is not necessary easy to do if local employees (including management) do not embrace [work techniques](https://github.com/karlcow/travailtech/issues) allowing remote working.
 
+This includes:
+
+* physical meetings and their documentation (scribing)
+* online action items/issues tracking
+* remotely accessible and modifiable documentations
+* etc.
+
+It may have a very nice twist for the company by improving the information management through [paper trail](http://www.w3.org/DesignIssues/PaperTrail).
+
 
 ## Errors, Mistakes, …
 
