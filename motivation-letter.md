@@ -29,6 +29,13 @@ This includes:
 
 It may have a very nice twist for the company by improving the information management through [paper trail](http://www.w3.org/DesignIssues/PaperTrail).
 
+## Do Not Contact Me
+
+In the case you are in the position of starting a discussion on a future job proposal, I would love to save your time and my time. I'm open to many jobs proposal, I love to learn but there are a few things which I prefer to keep out of my radar. If the job proposal is related to this list, please do not contact me.
+
+* Personal data profiling on the sole purpose of selling ads.
+* Entertainment, Media industry actively pushing for DRMs
+* Military industry
 
 ## Errors, Mistakes, …
 
