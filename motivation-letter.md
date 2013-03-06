@@ -44,6 +44,6 @@ I have been participating to open projects and open source as much as my time an
 * [World Wide Web Consortium](http://www.w3.org) including [Translations](http://www.w3.org/2005/11/Translations/Query?rec=any&lang=any&translator=Karl_Dubost&date=any&sorting=byTechnology&output=FullHTML&submit=Submit), [Summary of the Open Web Platform](https://duckduckgo.com/?q=%22Open+Web+Platform+Weekly+Summary%22+site%3Aw3.org%2FQA)
 * [OpenWeb](http://www.openweb.eu.org)
 * [Wikipedia](http://wikipedia.org) ([French](http://fr.wikipedia.org/wiki/Utilisateur:KarlDubost) and [English](http://en.wikipedia.org/wiki/User:KarlDubost))
-* [Python bugs fixing](http://bugs.python.org/) (Started in 2012.)
+* [Python bugs fixing](http://bugs.python.org/) (Started in 2012, focus on [http bugs](http://bugs.python.org/issue?%40search_text=&ignore=file%3Acontent&title=&%40columns=title&id=&%40columns=id&stage=&creation=&creator=&activity=&%40columns=activity&%40sort=activity&actor=&nosy=karlcow&type=&components=&versions=&dependencies=&assignee=&keywords=&priority=&%40group=priority&status=1&%40columns=status&resolution=&nosy_count=&message_count=&%40pagesize=50&%40startwith=0&%40queryname=&%40old-queryname=&%40action=search).)
 * And here and there reporting bugs in other open source projects and providing fix when possible.
 
