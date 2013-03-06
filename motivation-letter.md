@@ -37,6 +37,13 @@ In the case you are in the position of starting a discussion on a future job pro
 * Entertainment, Media industry actively pushing for DRMs
 * Military industry
 
-## Errors, Mistakes, …
+## Open Source, Open Projects Contributions
 
-TODO
+I have been participating to open projects and open source as much as my time and my interests allowed it. This is usually a good way to understand community dynamics and to give back a part of all the wonderful thing that the communities provide to us. A few things, I'm currently participating to or have participated include:
+
+* [World Wide Web Consortium](http://www.w3.org) including [Translations](http://www.w3.org/2005/11/Translations/Query?rec=any&lang=any&translator=Karl_Dubost&date=any&sorting=byTechnology&output=FullHTML&submit=Submit), [Summary of the Open Web Platform](https://duckduckgo.com/?q=%22Open+Web+Platform+Weekly+Summary%22+site%3Aw3.org%2FQA)
+* [OpenWeb](http://www.openweb.eu.org)
+* [Wikipedia](http://wikipedia.org) ([French](http://fr.wikipedia.org/wiki/Utilisateur:KarlDubost) and [English](http://en.wikipedia.org/wiki/User:KarlDubost))
+* [Python bugs fixing](http://bugs.python.org/) (Started in 2012.)
+* And here and there reporting bugs in other open source projects and providing fix when possible.
+
