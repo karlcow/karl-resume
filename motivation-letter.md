@@ -47,3 +47,14 @@ I have been participating to open projects and open source as much as my time an
 * [Python bugs fixing](http://bugs.python.org/) (Started in 2012, focus on [http bugs](http://bugs.python.org/issue?%40search_text=&ignore=file%3Acontent&title=&%40columns=title&id=&%40columns=id&stage=&creation=&creator=&activity=&%40columns=activity&%40sort=activity&actor=&nosy=karlcow&type=&components=&versions=&dependencies=&assignee=&keywords=&priority=&%40group=priority&status=1&%40columns=status&resolution=&nosy_count=&message_count=&%40pagesize=50&%40startwith=0&%40queryname=&%40old-queryname=&%40action=search).)
 * And here and there reporting bugs in other open source projects and providing fix when possible.
 
+
+## Not On LinkedIn
+
+Two recent and common questions:
+
+* What is your LinkedIn profile?
+* We didn't find you on LinkedIn.
+
+I had a LinkedIn profile from June 2009 to August 2011. I decided to close my account when LinkedIn forced its users into an opt-in. Trust is something elementary in any transactions. LinkedIn didn't have the level of trust I would expect from such a site, so I quit.
+
+
