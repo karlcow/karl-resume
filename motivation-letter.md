@@ -55,6 +55,7 @@ Two recent and common questions:
 * What is your LinkedIn profile?
 * We didn't find you on LinkedIn.
 
-I had a LinkedIn profile from June 2009 to August 2011. I decided to close my account when LinkedIn forced its users into an opt-in. Trust is something elementary in any transactions. LinkedIn didn't have the level of trust I would expect from such a site, so I quit.
+I had a LinkedIn profile from June 2009 to August 2011. I decided to close my account when LinkedIn forced its users into an opt-in for receiving commercial emails. Trust is something elementary in any transactions. LinkedIn didn't have the level of trust I would expect from such a site, so I quit.
+
 
 
