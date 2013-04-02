@@ -5,6 +5,7 @@ I'm [Karl Dubost](http://www.la-grange.net/karl/).
 
 This is an experiment at a personal Resume on github with contributions open to people who know me. There are certainly things which need to be polished. But let's ship it, and fix it iteratively.
 
+* [Very Quick Introduction](https://github.com/karlcow/karl-resume/blob/master/quick-intro.md)
 * [Employment History](https://github.com/karlcow/karl-resume/blob/master/employment.md)
 * [Talks and Conferences](https://github.com/karlcow/karl-resume/blob/master/conferences.md)
 * [Articles](https://github.com/karlcow/karl-resume/blob/master/publications.md)
