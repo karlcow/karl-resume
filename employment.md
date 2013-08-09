@@ -1,5 +1,7 @@
 # Employment History
 
+* from 2013-07 **[Web Opener](http://www.otsukare.info/), [Web Compatibility Team](http:///), [Mozilla](http://mozilla.org/)**, Toronto, Canada. (Worked remotely mostly from Montreal, Canada)
+  * Helping Mozilla to be a reality on the mobile Web
 * 2010-10 to 2013-01 **[Web Opener](http://my.opera.com/karlcow/), [Developer Relations](http://dev.opera.com/), [Opera Software](http://opera.com/)**, Oslo, Norway. (Worked remotely mostly from Montreal, Canada)
   * Writing articles about Web technologies in different magazines, including [dev.opera.com](http://dev.opera.com/author/karlcow).
   * Giving Talks at conferences about Open Web technologies (not only about Opera) and collecting Web developers feedback.
