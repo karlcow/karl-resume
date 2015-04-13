@@ -2,6 +2,8 @@
 
 I have published articles at different places in addition to contributions to projects. These are a few of them. Some of these articles are in French, some in English.
 
+Most of my professional activity articles are on [otsukare](http://www.otsukare.info/).
+
 ## Weekly ##
 
 * A semi-(ir)regular '''review of the Open Web platform''' on [W3C Web site](http://www.w3.org/QA/).
