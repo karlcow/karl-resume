@@ -1,7 +1,10 @@
 # Employment History
 
-* from 2013-07 **[Web Opener](http://www.otsukare.info/), [Web Compatibility Team](https://wiki.mozilla.org/Compatibility/Mobile#Mobile_Web_Compatibility), [Mozilla](http://mozilla.org/)**, Toronto, Canada. (Working remotely mostly from Montreal, Canada)
-  * Helping Mozilla to be a reality on the mobile Web
+* from 2013-07 **[Web Opener](http://www.otsukare.info/), [Web Compatibility Team](https://wiki.mozilla.org/Compatibility/Mobile#Mobile_Web_Compatibility), [Mozilla](http://mozilla.org/)**, Montréal, Canada, then Toronto, Canada, then Fujisawa, Japan.
+  * Analysis and management of bugs related to Web Compatibility.
+  * Maintenance of User Agent override list on Mozilla central source code.
+  * [Development](https://github.com/webcompat/webcompat.com/) and Maintenance of the [Webcompat.com Web site](https://webcompat.com/) (Python, Flask).
+  * Handling of weekly meeting organizations for Web Compat team and volunteers.
 * 2010-10 to 2013-01 **[Web Opener](http://my.opera.com/karlcow/), [Developer Relations](http://dev.opera.com/), [Opera Software](http://opera.com/)**, Oslo, Norway. (Worked remotely mostly from Montreal, Canada)
   * Writing articles about Web technologies in different magazines, including [dev.opera.com](http://dev.opera.com/author/karlcow).
   * Giving Talks at conferences about Open Web technologies (not only about Opera) and collecting Web developers feedback.
