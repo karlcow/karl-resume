@@ -1,6 +1,6 @@
 # Employment History
 
-* from 2013-07 **[Web Opener](http://www.otsukare.info/), [Web Compatibility Team](https://wiki.mozilla.org/Compatibility/Mobile#Mobile_Web_Compatibility), [Mozilla](http://mozilla.org/)**, Montréal, Canada, then Toronto, Canada, then Fujisawa, Japan.
+* from 2013-07 **[Web Opener](http://www.otsukare.info/), [Web Compatibility Team](https://wiki.mozilla.org/Compatibility/Mobile#Mobile_Web_Compatibility), [Mozilla](http://mozilla.org/)**, (remote from Fujisawa, Japan).
   * Analysis and management of bugs related to Web Compatibility.
   * Maintenance of User Agent override list on Mozilla central source code.
   * [Development](https://github.com/webcompat/webcompat.com/) and Maintenance of the [Webcompat.com Web site](https://webcompat.com/) (Python, Flask).
