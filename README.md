@@ -9,7 +9,7 @@ This is an experiment at a personal Resume on github with contributions open to 
 * [Employment History](https://github.com/karlcow/karl-resume/blob/master/employment.md)
 * [Talks and Conferences](https://github.com/karlcow/karl-resume/blob/master/conferences.md)
 * [Articles](https://github.com/karlcow/karl-resume/blob/master/publications.md)
-* Education (not sure it is relevant)
+* Education (probably not relevant anymore, but MSc Astrophysics)
 * [References and Testimonials](https://github.com/karlcow/karl-resume/blob/master/references.md)
 * [Motivation letter](https://github.com/karlcow/karl-resume/blob/master/motivation-letter.md)
 
@@ -24,4 +24,4 @@ If you think there are things missing on my resume, you are welcome to make pull
 
 ## Questions? ##
 
-If you have questions or specific issues, you are welcome to raise issues in the issues list. It is really an open experiment. If you are an employer and you want to propose a job and you think there are missing details, you can also raise an issue. 
+If you have questions or specific issues, you are welcome to raise issues in the issues list. It is really an open experiment. If you are an employer and you want to propose a job and you think there are missing details, you can also raise an issue.
