@@ -3,7 +3,7 @@
 This section is open to pull requests for people with a desire to assess what was their working experience and/or interactions with me.
 
 ```
-## Name - Company - Period ##
+## Name - Company - Period 
 
 Description
 
@@ -21,8 +21,7 @@ developer relations and getting an insider view of what's happening
 on the Web.
 
 
-## Rudy Rigot - Managing Director of the start-up Steerious,
-founding member of the Sud Web conferences
+## Rudy Rigot - Managing Director of the start-up Steerious, founding member of the Sud Web conferences
 
 Although i've never worked directly with Karl, we've been on common conference
 projects multiple times, and i've been lucky enough to witness and enjoy his
