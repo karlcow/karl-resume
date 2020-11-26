@@ -1,9 +1,10 @@
 # Employment History
 
 * from 2013-07 **[Senior Platform Engineer](http://www.otsukare.info/), [Web Compatibility Team](https://wiki.mozilla.org/Compatibility), [Mozilla](http://mozilla.org/)**, Montréal, Canada, then Toronto, Canada, then Fujisawa, Japan.
+  * Web Compatibility team manager (interim) from October 2020 to January 2021
+  * Providing Web Compatibility expertise for Firefox core enginers.
   * [Development](https://github.com/webcompat/webcompat.com/) and Maintenance of the [Webcompat.com Web site](https://webcompat.com/) (Python, Flask).
   * Diagnosis of Web Compatibility issues (JS, CSS, …)
-  * Providing expertise on issues to fix for the Firefox core engines.
   * Mentoring coding interns developing webcompat.com
   * Handling of weekly meeting organizations for Web Compat team and volunteers.
 * 2010-10 to 2013-01 **[Web Opener](http://my.opera.com/karlcow/), [Developer Relations](http://dev.opera.com/), [Opera Software](http://opera.com/)**, Oslo, Norway. (Worked remotely mostly from Montreal, Canada)
