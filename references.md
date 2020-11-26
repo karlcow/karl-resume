@@ -10,6 +10,19 @@ Description
 ===============
 ```
 
+## Michael Taylor - Engineering Manager, Mozilla - 2013 to 2020
+
+I've had the pleasure to work with Karl for the past 10 years at two different companies (Opera and 
+Mozilla). Our professional relationship changed from being peers at both, to me becoming Karl's
+manager for the last four years of my Mozilla tenure. One of Karl's most admirable traits is that he
+has a well-defined value system for the Open Web, Open Source, and Community. I've been lucky to
+observe his tireless efforts on multi-year problems to make progress in these areas. Karl is also
+not one to shy away from giving useful feedback (even if it's uncomfortable to receive), and has
+demonstrated the ability to receive and act on feedback with humility. Technically, Karl is razor
+sharp. I will especially miss his careful code reviews—I always managed to learn something new about
+Python, CSS, HTML, or code architecture from them. I would consider it a privilege to work with
+Karl again in the future, and am happy to serve as a professional reference.
+
 ## Ian Jacobs - W3C Head of Communications
 
 Karl worked at W3C from 2000-2009. During his latter years he
