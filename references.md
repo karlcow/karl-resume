@@ -1,12 +1,14 @@
-# References #
+# References
 
 This section is open to pull requests for people with a desire to assess what was their working experience and/or interactions with me.
 
+```
 ## Name - Company - Period ##
 
 Description
 
 ===============
+```
 
 ## Ian Jacobs - W3C Head of Communications
 
@@ -18,7 +20,6 @@ with our Web site. To this day, I consult with Karl on topics of
 developer relations and getting an insider view of what's happening
 on the Web.
 
-===============
 
 ## Rudy Rigot - Managing Director of the start-up Steerious,
 founding member of the Sud Web conferences
@@ -33,7 +34,7 @@ ability to have earned the highest respect of such a large community is proof
 of his abilities with web science as well as with people, and there is no doubt
 it is an honor he deserves entirely.
 
-===============
+
 
 ## David Larlet - Web Architect - scopyleft
 
@@ -41,7 +42,6 @@ I first met Karl about a decade ago (sigh) on IRC in the `#openweb` room, he was
 
 By hiring Karl, not only you'll benefit from his experience and skills but the most valuable part of his work for your company will be invisible, hardly quantifiable: his curiosity and humanity.
 
-===============
 
 ## Stephane Deschamps - Web accessibility and front-end expert
 
