@@ -21,13 +21,13 @@ I'm not. You will not find me in celebrity contests. It's not a very interesting
 I'm ready to relocate to another place in the world for working. I'm currently living south of Tokyo, Japan. I'm a French citizen with a residency in Japan. I currently have the **right to work** in the following areas:
 
 * Countries part of the European community
-* Japan (with a bit of paper work ~4 weeks)
+* Japan
 
 In the past, I have been working in Canada, France and Japan.
 
 ## Remote Working
 
-Often when discussing about remote working, people are focussing on the wrong side of it: employees. I have been working remotely from 2001 to 2005 ([W3C](http://www.w3.org/)), from 2010 to 2013 ([Opera Software](http://www.opera.com/)), from 2013 to 2018 ([Mozilla](https://www.mozilla.org/)). In my experience, the remote working option is really successful when **everyone in the company is working like if they were remote**, even if coming every day into the office. It has very strong dependencies on internal information architecture and workflow management. It is not necessary easy to do if local employees (including management) do not embrace [work techniques](https://github.com/karlcow/travailtech/issues) allowing remote working.
+Often when discussing about remote working, people are focussing on the wrong side of it: employees. I have been working remotely from 2001 to 2005 ([W3C](http://www.w3.org/)), from 2010 to 2013 ([Opera Software](http://www.opera.com/)), from 2013 to now ([Mozilla](https://www.mozilla.org/)). In my experience, the remote working option is really successful when **everyone in the company is working like if they were remote**, even if coming every day into the office. It has very strong dependencies on internal information architecture and workflow management. It is not necessary easy to do if local employees (including management) do not embrace [work techniques](https://github.com/karlcow/travailtech/issues) allowing remote working.
 
 This includes:
 
@@ -48,8 +48,10 @@ In the case you are in the position of starting a discussion on a future job pro
 
 ## Open Source, Open Projects Contributions
 
-I have been participating to open projects and open source as much as my time and my interests allowed it. This is usually a good way to understand community dynamics and to give back a part of all the wonderful thing that the communities provide to us. A few things, I'm currently participating to or have participated include:
+I have been participating to [open projects and open source](https://github.com/karlcow) as much as my time and my interests allowed it. This is usually a good way to understand community dynamics and to give back a part of all the wonderful thing that the communities provide to us. A few things, I'm currently participating to or have participated include:
 
+* [webcompat.com](https://github.com/webcompat/webcompat.com)
+* [Mozilla Gecko](https://searchfox.org)
 * [World Wide Web Consortium](http://www.w3.org) including [Translations](http://www.w3.org/2005/11/Translations/Query?rec=any&lang=any&translator=Karl_Dubost&date=any&sorting=byTechnology&output=FullHTML&submit=Submit), [Summary of the Open Web Platform](https://duckduckgo.com/?q=%22Open+Web+Platform+Weekly+Summary%22+site%3Aw3.org%2FQA)
 * [OpenWeb](http://www.openweb.eu.org)
 * [Wikipedia](http://wikipedia.org) ([French](http://fr.wikipedia.org/wiki/Utilisateur:KarlDubost) and [English](http://en.wikipedia.org/wiki/User:KarlDubost))
