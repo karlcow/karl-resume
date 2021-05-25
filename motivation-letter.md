@@ -17,7 +17,13 @@ I'm not. You will not find me in celebrity contests. It's not a very interesting
 
 ## Relocating
 
-I'm ready to relocate to another place in the world for working. I'm currently living south of Tokyo, Japan. I'm a French citizen with a residency in Japan. I currently have the **right to work** in the following areas:
+I'm ready to relocate to another place in the world for working.  I'm interested by positions in
+
+* Malaysia
+* Vietnam
+* Singapore
+
+I'm currently living south of Tokyo, Japan. I'm a French citizen with a residency in Japan. I currently have the **right to work** in the following areas:
 
 * Countries part of the European community
 * Japan
