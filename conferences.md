@@ -2,7 +2,9 @@
 
 These last few years, I have been giving talks and workshops here and there at different places across the world on different topics, mainly related to Web but not only.
 
-## To come ##
+I stopped keeping track of the conferences and the number of conferences I have been giving has reduced a lot and even mostly stopped with the year 2020.
+
+## Done in 2013 ##
 
 * May 17-18, 2013: [Sudweb 2013](http://sudweb.fr/2013/) in Avignon, France "Commentaires décentralisés , 2012: si on implémentait ?"
 
