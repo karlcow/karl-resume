@@ -9,7 +9,6 @@ The motivation letter is a strange and often futile exercise. I would not apply 
 * [Remote Working](https://github.com/karlcow/karl-resume/blob/master/motivation-letter.md#remote-working)
 * [Do Not Contact Me](https://github.com/karlcow/karl-resume/blob/master/motivation-letter.md#do-not-contact-me)
 * [Open Source, Open Projects Contributions](https://github.com/karlcow/karl-resume/blob/master/motivation-letter.md#open-source-open-projects-contributions)
-* [Not On LinkedIn](https://github.com/karlcow/karl-resume/blob/master/motivation-letter.md#not-on-linkedin)
 
 
 ## Rockstar, Ninja, Jedi of `$SKILL`
@@ -57,16 +56,6 @@ I have been participating to [open projects and open source](https://github.com/
 * [Wikipedia](http://wikipedia.org) ([French](http://fr.wikipedia.org/wiki/Utilisateur:KarlDubost) and [English](http://en.wikipedia.org/wiki/User:KarlDubost))
 * [Python bugs fixing](http://bugs.python.org/) (Started in 2012, focus on [http bugs](http://bugs.python.org/issue?%40search_text=&ignore=file%3Acontent&title=&%40columns=title&id=&%40columns=id&stage=&creation=&creator=&activity=&%40columns=activity&%40sort=activity&actor=&nosy=karlcow&type=&components=&versions=&dependencies=&assignee=&keywords=&priority=&%40group=priority&status=1&%40columns=status&resolution=&nosy_count=&message_count=&%40pagesize=50&%40startwith=0&%40queryname=&%40old-queryname=&%40action=search).)
 * And here and there reporting bugs in other open source projects and providing fix when possible.
-
-
-## Not On LinkedIn
-
-Two recent and common questions:
-
-* What is your LinkedIn profile?
-* We didn't find you on LinkedIn.
-
-I had a LinkedIn profile from June 2009 to August 2011. I decided to close my account when LinkedIn forced its users into an opt-in for receiving commercial emails. Trust is something elementary in any transactions. LinkedIn didn't have the level of trust I would expect from such a site, so I quit.
 
 
 
