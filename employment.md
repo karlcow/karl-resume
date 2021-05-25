@@ -1,7 +1,9 @@
 # Employment History
 
+See Also [LinkedIn](https://www.linkedin.com/in/karldubost/)
+
 * from 2013-07 **[Senior Platform Engineer](http://www.otsukare.info/), [Web Compatibility Team](https://wiki.mozilla.org/Compatibility), [Mozilla](http://mozilla.org/)**, Montréal, Canada, then Toronto, Canada, then Fujisawa, Japan.
-  * Web Compatibility team manager (interim) since October 2020 
+  * Web Compatibility team manager (interim) since October 2020
   * Providing Web Compatibility expertise for Firefox core enginers.
   * [Development](https://github.com/webcompat/webcompat.com/) and Maintenance of the [Webcompat.com Web site](https://webcompat.com/) (Python, Flask).
   * Diagnosis of Web Compatibility issues (JS, CSS, …)
